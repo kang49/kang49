@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://github.com/kang49/kang49/blob/main/81503963.jpeg?raw=true">
+    <img width="300" src="https://raw.githubusercontent.com/kang49/kang49/main/My%20Picture.jpeg">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
@@ -33,7 +33,7 @@
 <a href= https://github.com/kang49?tab=repositories&q=&type=&language=dart&sort== > <img width ='32px' src ='https://sv1.picz.in.th/images/2022/08/21/XIFicz.png'> </a>
 <a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/kang49/kang49/main/XMWUT1.png'> </a>
+<a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/kang49/kang49/main/Python%20Icon.png'> </a>
 <a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
