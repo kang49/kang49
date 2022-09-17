@@ -37,7 +37,7 @@
 <a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= '' > <img width ='32px' src ='https://o.remove.bg/downloads/e9cd08ad-1262-4922-97c9-0596bd87bec2/image-removebg-preview.png'> </a>
+<a href= '' > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/5/5b/Xcode_Logo.png'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
