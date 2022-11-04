@@ -21,7 +21,7 @@
 
 - 🔭 I’m study at Sarawittaya School
   
-- 🌱 I’m currently learning Dart lang, Javascrips, and C++
+- 🌱 I’m currently learning Dart lang, Javascrips, C++, and Tensorflow Deep Learning
   
 - 👯 I’m looking for friends to coding
   
@@ -38,6 +38,7 @@
 <a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= '' > <img width ='32px' src ='https://github.com/kang49/kang49/blob/main/Xcode_Icon.PNG'> </a>
+<a href= '' > <img width ='32px' src ='https://github.com/kang49/kang49/blob/main/Tensorflow_Icon.png'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
