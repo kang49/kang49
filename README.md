@@ -45,6 +45,8 @@
 <a href = 'https://www.linkedin.com/in/kankawee-aramrak-2bab53232/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
 <a href = 'https://www.github.com/kang49'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://www.facebook.com/KankaweeG49'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png"/></a>
+<a href = 'https://twitter.com/A_Kankawee'> <img width = '32px' align= 'center' 
+src="https://www.edigitalagency.com.au/wp-content/uploads/Twitter-logo-png.png"/></a>
   
 <br>
 <br>
