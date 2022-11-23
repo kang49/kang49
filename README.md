@@ -21,7 +21,7 @@
 
 - 🔭 I’m study at Sarawittaya School
   
-- 🌱 I’m currently learning Dart lang, Javascrips, C++, and Tensorflow Deep Learning
+- 🌱 I’m currently learning Dart lang, Javascript, C++, and Tensorflow Deep Learning
   
 - 👯 I’m looking for friends to coding
   
