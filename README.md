@@ -30,15 +30,16 @@
 - ⚡ Fun fact: I go to bed at 4a.m. every night.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/kang49?tab=repositories&q=&type=&language=dart&sort== > <img width ='32px' src ='https://sv1.picz.in.th/images/2022/08/21/XIFicz.png'> </a>
-<a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/kang49/kang49/main/Python%20Icon.png'> </a>
-<a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= '' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= '' > <img width ='32px' src ='https://github.com/kang49/kang49/blob/main/Xcode_Icon.PNG'> </a>
-<a href= '' > <img width ='32px' src ='https://github.com/kang49/kang49/blob/main/Tensorflow_Icon.png'> </a>
+
+<a href= 'https://dart.dev' > <img width ='32px' src ='https://sv1.picz.in.th/images/2022/08/21/XIFicz.png'> </a>
+<a href= 'https://reactnative.dev' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= 'https://www.javascript.com' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= 'https://www.python.org' > <img width ='32px' src ='https://raw.githubusercontent.com/kang49/kang49/main/Python%20Icon.png'> </a>
+<a href= 'https://cplusplus.com' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= 'https://learn.microsoft.com/en-us/dotnet/csharp/' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+<a href= 'https://developer.android.com' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= 'https://developer.apple.com' > <img width ='32px' src ='https://github.com/kang49/kang49/blob/main/Xcode_Icon.PNG'> </a>
+<a href= 'https://www.tensorflow.org' > <img width ='32px' src ='https://github.com/kang49/kang49/blob/main/Tensorflow_Icon.png'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
