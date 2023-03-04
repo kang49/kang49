@@ -1,6 +1,7 @@
 <p align="center">
     <img width="300" src="https://raw.githubusercontent.com/kang49/kang49/main/My%20Picture.jpeg">
 </p>
+<h4 align="center">[AMI Hackathon#2]</h4>
 
 <h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
