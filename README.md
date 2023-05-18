@@ -1,7 +1,8 @@
 <p align="center">
-    <img width="300" src="https://raw.githubusercontent.com/kang49/kang49/main/My%20Picture.jpeg">
+    <img width="300" src="https://github.com/kang49/kang49/assets/81503963/796c312d-fd39-435f-bd83-440d5ca2b4d4">
+
 </p>
-<h4 align="center">[AMI Hackathon#2]</h4>
+<h4 align="center">[Meta_Keen VRC Avatar]</h4>
 
 <h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
