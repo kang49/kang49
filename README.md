@@ -62,7 +62,7 @@ src="https://www.edigitalagency.com.au/wp-content/uploads/Twitter-logo-png.png"/
 <br>
   <br>
   
-[![KanG49's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kang49&theme=tokyo-night)](https://git.io/praveenscience)
+[![KanG49's GitHub Activity Graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=kang49&theme=tokyo-night&radius=6&area=true)](https://fabianocouto-activity-graph.vercel.app/graph/?username=kang49&theme=tokyo-night&radius=6&area=true)
 
 | ![KanG49's github stats](https://github-readme-stats.vercel.app/api?username=kang49&show_icons=true&theme=tokyonight) | ![KanG49 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kang49&theme=tokyonight) |
 | --- | --- |
