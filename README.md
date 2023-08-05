@@ -46,7 +46,7 @@
 <a href= 'https://www.typescriptlang.org/' > <img width ='32px' src ='https://static.thinkster.io/topics/ts.png'> </a>
 <a href= 'https://www.python.org' > <img width ='32px' src ='https://raw.githubusercontent.com/kang49/kang49/main/Python%20Icon.png'> </a>
 <a href= 'https://cplusplus.com' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= 'https://learn.microsoft.com/en-us/dotnet/csharp/' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+<a href= 'https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170' > <img width ='32px' src ='https://github.com/kang49/kang49/assets/81503963/87663ad8-72e0-4a6b-911a-16659b1ab983'> </a>
 <a href= 'https://developer.android.com' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= 'https://developer.apple.com' > <img width ='32px' src ='https://github.com/kang49/kang49/blob/main/Xcode_Icon.PNG'> </a>
 <a href= 'https://www.tensorflow.org' > <img width ='32px' src ='https://github.com/kang49/kang49/blob/main/Tensorflow_Icon.png'> </a>
