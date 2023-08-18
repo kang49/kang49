@@ -43,7 +43,7 @@
 <a href= 'https://dart.dev' > <img width ='32px' src ='https://raw.githubusercontent.com/kang49/kang49/main/Dart_Icon.png'> </a>
 <a href= 'https://reactnative.dev' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= 'https://www.javascript.com' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= 'https://www.typescriptlang.org/' > <img width ='32px' src ='https://static.thinkster.io/topics/ts.png'> </a>
+<a href= 'https://www.typescriptlang.org/' > <img width ='32px' src ='https://github.com/kang49/kang49/assets/81503963/9e0e5363-9bdb-4d3a-bc24-33161222964e'> </a>
 <a href= 'https://www.python.org' > <img width ='32px' src ='https://raw.githubusercontent.com/kang49/kang49/main/Python%20Icon.png'> </a>
 <a href= 'https://cplusplus.com' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= 'https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170' > <img width ='32px' src ='https://github.com/kang49/kang49/assets/81503963/87663ad8-72e0-4a6b-911a-16659b1ab983'> </a>
