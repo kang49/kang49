@@ -9,7 +9,7 @@
 <p align='center'>
 </p>
 
-
+![Views Hit](https://hit.yhype.me/github/profile?user_id=81503963)
 ![Views](https://komarev.com/ghpvc/?username=kang49&label=Views&color=green&style=flat)
 [![Github](https://img.shields.io/github/followers/kang49?label=Follow&style=social)](https://github.com/kang49)
 <div style="text-align:center;">
