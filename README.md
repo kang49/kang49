@@ -30,11 +30,11 @@
 
 - 🔭 I’m study at Sarawittaya School
   
-- 🌱 I’m currently learning MPI for SuperComputer(HPC), Javascript, C++, and Tensorflow Deep Learning
+- 🌱 I’m currently NodeJS, Javascript, Typescript, C++, and HPC
   
 - 👯 I’m looking for friends to coding
   
-- 💬 Ask me about Netwotking, Dart, C++, Unity
+- 💬 Ask me about Backend (No Frontend 🥹)
   
 - ⚡ Fun fact: I go to bed at 3a.m. every night.
 
