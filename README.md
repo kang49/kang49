@@ -34,7 +34,7 @@
   
 - 👯 I’m looking for friends to coding
   
-- 💬 Ask me about Backend (No Frontend 🥹)
+- 💬 Ask me about Typescript Vue and Parallel Programming
   
 - ⚡ Fun fact: I go to bed at 3a.m. every night.
 
