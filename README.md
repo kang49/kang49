@@ -1,9 +1,5 @@
 <p align="center">
-    <img width="300" src="https://github.com/kang49/kang49/assets/81503963/eea03294-af3a-4a10-a5c3-aebb2e61c747">
-
-</p>
-
-<h4 align="center">[Meta_Keen VRC Avatar]</h4>
+    <img width="1024" src="https://github.com/kang49/kang49/assets/81503963/7d59da34-f109-4d38-95e8-140f2a8b3564">
 
 <h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
