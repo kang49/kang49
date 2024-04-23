@@ -24,7 +24,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://lanyard.cnrad.dev/api/605305608085831681?theme=light&bg=dbecf6&animated=false&hideDiscrim=true&borderRadius=30px&showDisplayName=true" />
 
-- 🔭 I’m study at Sarawittaya School
+- 🔭 I'm studying at The University of Melbourne soon.
   
 - 🌱 I’m currently NodeJS, Javascript, Typescript, C++, and HPC
   
@@ -32,7 +32,7 @@
   
 - 💬 Ask me about Typescript Vue and Parallel Programming
   
-- ⚡ Fun fact: I go to bed at 3a.m. every night.
+- ⚡ Fun fact: No work life balance here.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
