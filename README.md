@@ -14,23 +14,34 @@
 
 
 
-
-<div size='20px'> Hi! My name is Kankawee. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-    
+``` TS
+let myProfile = {
+  profile: {
+    name: {
+        en_name: "Kankawee Aramrak",
+        th_name: "กันต์กวี อารามรักษ์",
+        alias: {
+            ['Kan', 'Keen', 'Meta_Keen', 'KanG49']
+        },
+    },
+    age: 18,
+    lang: {['th_native', 'en']}
+  }
+}
+```
 <img src = "https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width = 300px>
 
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://lanyard.cnrad.dev/api/605305608085831681?theme=light&bg=dbecf6&animated=false&hideDiscrim=true&borderRadius=30px&showDisplayName=true" />
 
-- 🔭 I'm studying at The University of Melbourne soon.
+- 🔭 I'm very very very very unemployed right now, dude!
   
-- 🌱 I’m currently NodeJS, Javascript, Typescript, C++, and HPC
+- 🌱 I’m currently learning about NodeJS, Javascript, Typescript, Rust, C and HPC
   
-- 👯 I’m looking for friends to coding
+- 👯 I’m looking for friends to coding.
   
-- 💬 Ask me about Typescript Vue and Parallel Programming
+- 💬 Ask me about Typescript Vue and Parallel Programming.
   
 - ⚡ Fun fact: No work life balance here.
 
