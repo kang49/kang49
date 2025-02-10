@@ -24,7 +24,7 @@ let myProfile = {
             ['Kan', 'Keen', 'Meta_Keen', 'KanG49']
         },
     },
-    age: 18,
+    age: 19,
     lang: {['th_native', 'en']}
   }
 }
