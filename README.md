@@ -52,7 +52,7 @@ let myProfile = {
 <a href= 'https://www.typescriptlang.org/' > <img width ='32px' src ='https://github.com/kang49/kang49/assets/81503963/9e0e5363-9bdb-4d3a-bc24-33161222964e'> </a>
 <a href= 'https://www.python.org' > <img width ='32px' src ='https://raw.githubusercontent.com/kang49/kang49/main/Python%20Icon.png'> </a>
 <a href= 'https://vuejs.org' > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png'> </a>
-<a href= 'https://nuxt.com' > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png'> </a>
+<a href= 'https://nuxt.com' > <img width ='32px' src ='https://i.imgur.com/a9xrb0I.png'> </a>
 <a href= 'https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170' > <img width ='32px' src ='https://github.com/kang49/kang49/assets/81503963/87663ad8-72e0-4a6b-911a-16659b1ab983'> </a>
 <a href= 'https://developer.android.com' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= 'https://developer.apple.com' > <img width ='32px' src ='https://github.com/kang49/kang49/blob/main/Xcode_Icon.PNG'> </a>
