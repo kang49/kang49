@@ -1,85 +1,103 @@
-<p align="center">
-    <img width="1024" src="https://github.com/kang49/kang49/assets/81503963/7d59da34-f109-4d38-95e8-140f2a8b3564">
+<div align="center">
+  <h1>Hello Fellow &lt;Developers /&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
+  <p>
+    <strong>HPC Enthusiast • Systems Programmer • CS Student</strong>
+  </p>
 
-<h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-
-![](https://hit.yhype.me/github/profile?account_id=81503963)
-![Views](https://komarev.com/ghpvc/?username=kang49&label=Views&color=green&style=flat)
-[![Github](https://img.shields.io/github/followers/kang49?label=Follow&style=social)](https://github.com/kang49)
-<div style="text-align:center;">
-  <a href="https://www.buymeacoffee.com/metakeen"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=metakeen&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="200px"/></a>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=kang49&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <a href="https://github.com/kang49">
+      <img src="https://img.shields.io/github/followers/kang49?label=Followers&style=flat-square&color=1f2937" alt="GitHub Followers" />
+    </a>
+    <a href="https://www.buymeacoffee.com/metakeen">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+    </a>
+  </p>
 </div>
 
+```c
+typedef struct {
+    const char *en_name;
+    const char *th_name;
+    const char *aliases[4];
+    int age;
+    const char *location;
+    const char *focus[3];
+} DeveloperProfile;
 
-
-``` TS
-let myProfile = {
-  profile: {
-    name: {
-        en_name: "Kankawee Aramrak",
-        th_name: "กันต์กวี อารามรักษ์",
-        alias: {
-            ['Kan', 'Keen', 'Meta_Keen', 'KanG49']
-        },
-    },
-    age: 19,
-    lang: {['th_native', 'en']}
-  }
-}
+DeveloperProfile keen = {
+    .en_name  = "Kankawee Aramrak",
+    .th_name  = "กันต์กวี อารามรักษ์",
+    .aliases  = {"Keen", "Kan", "Meta_Keen", "KanG49"},
+    .age      = 20,
+    .location = "Melbourne, Australia",
+    .focus    = {"High-Performance Computing", "Low-Level Systems", "Parallel Algorithms"}
+};
 ```
-<img src = "https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width = 300px>
 
-<h2> About Me </h2>
+## About Me
 
-<img width="55%" align="right" alt="Github" src="https://lanyard.cnrad.dev/api/605305608085831681?theme=light&bg=dbecf6&animated=false&hideDiscrim=true&borderRadius=30px&showDisplayName=true" />
+- 🔭 **Currently:** Studying IT & Computer Science at Monash (Melbourne) and tinkering with bare-metal Raspberry Pi HPC clusters (Slurm + Open MPI).
+- ⚙️ **What I Do:** Low-level systems programming in C/C++, diving into ARM64 memory ordering, atomic concurrency, and distributed parallel computing.
+- 🌱 **Exploring:** GPU kernel programming (CUDA / Triton), RDMA, and systems engineering in Rust.
+- 💬 **Ask me about:** Parallel programming, Linux/homelab networking, or full-stack web dev (TypeScript, Nuxt/Vue).
+- ⚡ **Fun fact:** Still no work-life balance—just traded CSS debugging for data races and cache lines.
 
-- 🔭 I'm very very very very unemployed right now, dude!
-  
-- 🌱 I’m currently learning about NodeJS, Javascript, Typescript, Rust, C and HPC
-  
-- 👯 I’m looking for friends to coding.
-  
-- 💬 Ask me about Typescript Vue and Parallel Programming.
-  
-- ⚡ Fun fact: No work life balance here.
+## Tech Stack
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+### Core Systems, HPC & Languages
 
-<a href= 'https://dart.dev' > <img width ='32px' src ='https://raw.githubusercontent.com/kang49/kang49/main/Dart_Icon.png'> </a>
-<a href= 'https://www.javascript.com' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= 'https://www.typescriptlang.org/' > <img width ='32px' src ='https://github.com/kang49/kang49/assets/81503963/9e0e5363-9bdb-4d3a-bc24-33161222964e'> </a>
-<a href= 'https://www.python.org' > <img width ='32px' src ='https://raw.githubusercontent.com/kang49/kang49/main/Python%20Icon.png'> </a>
-<a href= 'https://vuejs.org' > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png'> </a>
-<a href= 'https://nuxt.com' > <img width ='32px' src ='https://i.imgur.com/a9xrb0I.png'> </a>
-<a href= 'https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170' > <img width ='32px' src ='https://github.com/kang49/kang49/assets/81503963/87663ad8-72e0-4a6b-911a-16659b1ab983'> </a>
-<a href= 'https://developer.android.com' > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= 'https://developer.apple.com' > <img width ='32px' src ='https://github.com/kang49/kang49/blob/main/Xcode_Icon.PNG'> </a>
-<a href= 'https://tauri.app' > <img width ='32px' src ='https://raw.githubusercontent.com/github/explore/70444453f0d8b1143dca3a7b273119ef88bd4399/topics/tauri/tauri.png'> </a>
-<a href= 'https://www.rust-lang.org/' > <img width ='32px' src ='https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png'> </a>
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/ARM64-0091BD?style=flat-square&logo=arm&logoColor=white" alt="ARM64" />
+  <img src="https://img.shields.io/badge/Slurm-1f2937?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALnSURBVDhPnZRriFVVFMd/EGKZIeVjPHufe2d0EPEFYmiRo0KJb8fB8RGWoB9ECYykBL80Fangu1Ij8dugiN679xkF0cEHOo6jkNSnKMEHyIxn73slP00Fee+NddmFcwnS/rBZa+291n899jkbngHKuObszfJ23VFYXHv2v6CN+7HxXqWirPu+9uyZoU72js9cLeWivGvRxm2pv1Hu1ib9UBu/InPlSS5jfWNtzL+irj19uS553KAS9072WqmkrGvTNl1Z31POaeuXa+O3Z7tKpThfmJ09nY6JzvQNqeUYAJVPVytb+DU26eT4/G/7tXFvKuO6Gu9Iy/6ySvxb8fn+fXHipuiO4uMocS21HAOgTvVOVfl0hzg2/FCpKON2qVy6KttTSnTiW5XxXzXcEvLCEmXcTklcy1HF2FN3h1XnlfhWbf0vo+2jCZnO3/dGeT9TZpjtKV+NE79ZWs2c69+byaWTdFK8rUyxOU5cy/CO4isDCOtMOkpZ/12UFGapvPtGKsh2V2+2TRnX2Xi/2vJZnfgvs12ViraFhdoUDka2r0kZf0TZ3uH/kAlJZH2Ttu6wPtvfGl98ci02xemZC3+2S2Bk/bz6G+XdKu/mqiRdGnf+0R7bdIa2/idtHq7QiftWOolyfbOqhHKj0uLojkcTgRHAkqeK/09IXHUEp4tv154J3gDu1m4+D+YDJ4BjwAFgNnAZkGyfBJ95wHqgCcgDR4FpwHEgB5wMUlaV7BKwJpDNADqBD4CLgXBLIDkcSKYDG4GfQ5IHwKKQrKocAvYA54C5QW4ImQVrgYPA18BHYW8dYIN+HRgEbBNDZvYx8AVQAJYD3cD7wW4DusI4pErxE2wCrgRdKn0V2CWGzOpz4NNA9hqwDBgKbAY+A7YCDcBMYGogGRe6E0jcC8DrwR6AkcBLwKin9sT5RWBwWPJX/P0oDAtSCpAzJgELAHk8Rc4J+tJgvxu+y7HhwmTGq0Jn4vte6Ehk81/UuCgMJBp3JAAAAABJRU5ErkJggg==" alt="Slurm" />
+  <img src="https://img.shields.io/badge/Open_MPI-1f2937?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANUSURBVDhPjZRraFtlHMb/eINNcPhliENxdjDFD14+bFMnflDrZSp4WTuom3aD4qUtE9dV0Tk7OnZJdRDTLLf25JyTntxOmibNql3TFE+t0bXWrrhu67qkyXrJTk5y2lQkFckjqRjkyKg/eHl5eZ//j5fnw0u0Ch0dHXd6OwMVViu3SXv3vzGb2XvdXv+l2NU4urt7Fsxt7HZtZlVaW9vvcbvFy/Oz8xi7HEMqJSMYCOUYxvGkNntDTtvtG1xO8VIuk8HnNh+orByVn+qhZrL4eWR0sb//uye0M//BZhPudjq9F3NZBUf4HtDDlaDt1aCH3sDbx+0oEu6LLBqNlm3a2RIGA3OXIHgmchkFR11h0Ja9oGdqQeX1oKffxcbdX4DpG8bS4gK6OoPqaat1i9ZBRo5bLwju8Zwi45gogZ6qA73QANrRCHrxIOj5A3itmccrTXbst/Ugq2TQ5Q9kTKb2x0oSnU633uFwnb+WvIZGxwBoaz3o2UbQjkO46fUmrKtoxiMfmrCrRcRbp3yg8o+xRx/AkqrCJ3YpNhv7KCWTyTXf9oaj12fnMDoto+KEiBrjGdQzffiI7UcjP4DDLgn7TN/g5eNevHpCxM27ToKe+wzV5l7Ichqi1y9TIpEom59PrZT4Zc8v0AWHYY6MwxIeh7F3DF+FRtAkRtHgkPD4YTdeOukHVbSAdupAb+og//YHLv46AaqpMd86OXkllF9eRjK9AEP4Amrtg3jPLuEDdhANwhCOdJ5DS3AEloEL2HxQAFXqQTv1sEiTUFIpCE7v5EpHANae7Yv0AwVIUwpMkQkERqcRHEuCGZpCU/d5VFkllH3iA1VZQFVWGKUp/J5VIAieqwzjvK9UeKFQWBObTkSWlDTmcnmUHQqB9jlA73Cg3fa/9+K5mkfr93Hk1aLEG7NYuI0lyb9Y2253DMzGY+iekHFLXQD0vg+0PwCq84NqRHz9QxLLqgKXyxtva2u7XysowXHc7XZWkLIzCfROqbjtwFlQ7ZmVpY/OYVlNFyVJg8G6+m/A8/wdLC8MFWWhK4vY1BzFqR+vI6+m4XSKMzYbv1k7c0NWZJwQnYnHkf+zADUtF18ya2aYB7TZVfF4POucTnHw3E/D8PmCMZZlH9Rm/uEvVnM5n6Q7j/8AAAAASUVORK5CYII=" alt="Open MPI" />
+</p>
 
+### Web & App Development (Supporting Stack)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/kankawee-aramrak-2bab53232/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
-<a href = 'https://www.github.com/kang49'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://www.facebook.com/KankaweeG49'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png"/></a>
-<a href = 'https://twitter.com/A_Kankawee'> <img width = '32px' align= 'center' 
-src="https://www.edigitalagency.com.au/wp-content/uploads/Twitter-logo-png.png"/></a>
-<a href = 'https://discord.com/users/605305608085831681'> <img width = '32px' align= 'center' 
-src="https://www.svgrepo.com/download/353655/discord-icon.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+</p>
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/kankawee-aramrak-2bab53232/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.github.com/kang49">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/605305608085831681">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://medium.com/@kang49">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.instagram.com/kan_g49/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/KankaweeG49">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+## GitHub Stats
+
 [![KanG49's GitHub Activity Graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=kang49&theme=tokyo-night&radius=6&area=true)](https://fabianocouto-activity-graph.vercel.app/graph/?username=kang49&theme=tokyo-night&radius=6&area=true)
 
 | ![KanG49's github stats](https://github-readme-stats.vercel.app/api?username=kang49&show_icons=true&theme=tokyonight) | ![KanG49 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kang49&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang49&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kang49&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
