@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hello Fellow &lt;Developers /&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
+  <h1>Hello Fellow &lt;Engineers & Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /></h1>
   <p>
-    <strong>HPC Enthusiast • Systems Programmer • CS Student</strong>
+    <strong>CS Student • High-Performance Computing • Systems & Software</strong>
   </p>
 
   <p>
@@ -31,21 +31,21 @@ DeveloperProfile keen = {
     .aliases  = {"Keen", "Kan", "Meta_Keen", "KanG49"},
     .age      = 20,
     .location = "Melbourne, Australia",
-    .focus    = {"High-Performance Computing", "Low-Level Systems", "Parallel Algorithms"}
+    .focus    = {"High-Performance Computing", "Systems Engineering", "Parallel & Distributed Software"}
 };
 ```
 
 ## About Me
 
-- 🔭 **Currently:** Studying IT & Computer Science at Monash (Melbourne) and tinkering with bare-metal Raspberry Pi HPC clusters (Slurm + Open MPI).
-- ⚙️ **What I Do:** Low-level systems programming in C/C++, diving into ARM64 memory ordering, atomic concurrency, and distributed parallel computing.
-- 🌱 **Exploring:** GPU kernel programming (CUDA / Triton), RDMA, and systems engineering in Rust.
-- 💬 **Ask me about:** Parallel programming, Linux/homelab networking, or full-stack web dev (TypeScript, Nuxt/Vue).
-- ⚡ **Fun fact:** Still no work-life balance—just traded CSS debugging for data races and cache lines.
+- 🔭 **Currently:** Studying IT & Computer Science at Monash (Melbourne) and experimenting with multi-node clusters, Linux setups, and parallel workloads.
+- ⚙️ **What I Do:** Systems and application programming across C/C++, concurrency, performance tuning, and end-to-end software development.
+- 🌱 **Exploring:** GPU computing, distributed systems, networking, and modern systems languages like Rust.
+- 💬 **Ask me about:** HPC & parallel programming, Linux/homelab infrastructure, or full-stack web & app development.
+- ⚡ **Fun fact:** Always balancing coursework, side projects, and homelab experiments—trading UI layout bugs for performance bottlenecks and race conditions.
 
 ## Tech Stack
 
-### Core Systems, HPC & Languages
+### Systems, HPC & Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
@@ -58,7 +58,7 @@ DeveloperProfile keen = {
   <img src="https://img.shields.io/badge/Open_MPI-1f2937?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANUSURBVDhPjZRraFtlHMb/eINNcPhliENxdjDFD14+bFMnflDrZSp4WTuom3aD4qUtE9dV0Tk7OnZJdRDTLLf25JyTntxOmibNql3TFE+t0bXWrrhu67qkyXrJTk5y2lQkFckjqRjkyKg/eHl5eZ//j5fnw0u0Ch0dHXd6OwMVViu3SXv3vzGb2XvdXv+l2NU4urt7Fsxt7HZtZlVaW9vvcbvFy/Oz8xi7HEMqJSMYCOUYxvGkNntDTtvtG1xO8VIuk8HnNh+orByVn+qhZrL4eWR0sb//uye0M//BZhPudjq9F3NZBUf4HtDDlaDt1aCH3sDbx+0oEu6LLBqNlm3a2RIGA3OXIHgmchkFR11h0Ja9oGdqQeX1oKffxcbdX4DpG8bS4gK6OoPqaat1i9ZBRo5bLwju8Zwi45gogZ6qA73QANrRCHrxIOj5A3itmccrTXbst/Ugq2TQ5Q9kTKb2x0oSnU633uFwnb+WvIZGxwBoaz3o2UbQjkO46fUmrKtoxiMfmrCrRcRbp3yg8o+xRx/AkqrCJ3YpNhv7KCWTyTXf9oaj12fnMDoto+KEiBrjGdQzffiI7UcjP4DDLgn7TN/g5eNevHpCxM27ToKe+wzV5l7Ichqi1y9TIpEom59PrZT4Zc8v0AWHYY6MwxIeh7F3DF+FRtAkRtHgkPD4YTdeOukHVbSAdupAb+og//YHLv46AaqpMd86OXkllF9eRjK9AEP4Amrtg3jPLuEDdhANwhCOdJ5DS3AEloEL2HxQAFXqQTv1sEiTUFIpCE7v5EpHANae7Yv0AwVIUwpMkQkERqcRHEuCGZpCU/d5VFkllH3iA1VZQFVWGKUp/J5VIAieqwzjvK9UeKFQWBObTkSWlDTmcnmUHQqB9jlA73Cg3fa/9+K5mkfr93Hk1aLEG7NYuI0lyb9Y2253DMzGY+iekHFLXQD0vg+0PwCq84NqRHz9QxLLqgKXyxtva2u7XysowXHc7XZWkLIzCfROqbjtwFlQ7ZmVpY/OYVlNFyVJg8G6+m/A8/wdLC8MFWWhK4vY1BzFqR+vI6+m4XSKMzYbv1k7c0NWZJwQnYnHkf+zADUtF18ya2aYB7TZVfF4POucTnHw3E/D8PmCMZZlH9Rm/uEvVnM5n6Q7j/8AAAAASUVORK5CYII=" alt="Open MPI" />
 </p>
 
-### Web & App Development (Supporting Stack)
+### Web, Apps & Tooling
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
